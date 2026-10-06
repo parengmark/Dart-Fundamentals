@@ -13,8 +13,11 @@ Data Types Used
 The program uses the four required Dart data types:
 
 int – stores the quantity of items.
+
 double – stores the price and total amount.
+
 String – stores the student's name.
+
 bool – stores whether the student is a member.
 
 Operators Used
