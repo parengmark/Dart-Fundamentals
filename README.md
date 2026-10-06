@@ -34,15 +34,25 @@ Comparison Operators
 Sample Output
 
 ====== STUDENT REPORT ======
+
 Student Name: Mark Joseph
+
 Quantity ordered: 3
+
 Price per item: 45.5
+
 Student discount applied: true
+
 Subtotal: 136.5
+
 Discount: 13.65
+
 Final total: 122.85
+
 Number of complete pairs: 1
+
 Remaining individual items: 1
+
 Is the final total over 100? true
 
 How to Run
