@@ -1,0 +1,11 @@
+name: dart_exercises
+description: A simple Dart fundamentals exercise.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^5.0.0
